@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Nasr Elgendy
+# Hi, I'm Mohamed Elgendy
 
 <div align="right">
   <img src="https://img.shields.io/badge/C%2B%2B-Expert-blue?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -11,15 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mohamed.nasr.elgendy@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohamednasrelgendy/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-elgendy-91120a1b6/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/mo-elgendy2" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="22px" width="22px" />
   </a>
 </p>
@@ -34,7 +30,9 @@ I'm a software developer based in Egypt 🇪🇬 with a strong background in:
 - **C# and .NET** for desktop applications and business logic (WinForms, ADO.NET)  
 - **SQL Server** for database design, queries, and optimization  
 
-I build clean, maintainable software and aim to solve real-world problems through code.
+I build clean, maintainable software using structured layers like the **3-Tier Architecture**  
+(Data Access Layer - Business Logic Layer - Presentation Layer),  
+and aim to solve real-world problems through organized and scalable code.
 
 ---
 
@@ -43,5 +41,8 @@ I build clean, maintainable software and aim to solve real-world problems throug
 ```text
 💻 Languages:      C++, C#, SQL  
 🧠 Databases:      SQL Server, ADO.NET  
+🧱 Data Structures: Linked Lists, Trees, Stacks, Queues, Hash Tables, Graphs  
+🌐 Networking:     TCP/IP basics, OSI Model, Client-Server architecture  
+🧩 Architecture:   3-Tier (DAL, BLL, UI)  
 🛠️ Tools:          Visual Studio, SSMS, Git  
 📊 Projects:        WinForms Desktop Apps, Data Management Systems  
